@@ -6,7 +6,8 @@ Interactive tip calculator that automatically calculates the tip amount when you
 ## Codelab from developer.android
 * Codelab : 3) Intro to state in Compose
 * Codelab : 4) Calculate a custom tip
-* Codelab : 5) Write automated tests
+* Codelab : 5) Write automated tests  
+All 3 Codelabs are "Walk through Codelab"
 
 ## Solution in github
 * Codelab : 3) Branch state  
