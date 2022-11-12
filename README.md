@@ -18,6 +18,8 @@ Interactive tip calculator that automatically calculates the tip amount when you
 
 ## Objective
 * Use State in a UI. How Compose uses state to display data and How to hoist a state.
+* KeyboardActions and keyboardOptions
+* Use Switch
 
 ## ANDROID BASICS WITH COMPOSE - Unit 2: Building app UI - Pathway 3: UI and State
 Link: https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3
@@ -25,6 +27,7 @@ Link: https://developer.android.com/courses/pathways/android-basics-compose-unit
 ---## Codelab Screenshot
 Codelab : 3) Intro to state in Compose  
 <img src="screenshot_01.png" width="200" />
-
+Codelab : 4) Calculate a custom tip
+<img src="screenshot_02.png" width="200" />
 
 ref: tip-time-app-android-kotlin-compose
